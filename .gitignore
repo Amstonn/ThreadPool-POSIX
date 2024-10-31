@@ -1,3 +1,3 @@
-./.git
-*.o
-./.vscode
+.git
+.vscode
+/build/CMakeFiles
