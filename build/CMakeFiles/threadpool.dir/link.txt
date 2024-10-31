@@ -1,3 +1,0 @@
-"D:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\threadpool.dir/objects.a
-F:\env\C++\mingw64\bin\ar.exe qc CMakeFiles\threadpool.dir/objects.a @CMakeFiles\threadpool.dir\objects1.rsp
-F:\env\C++\mingw64\bin\g++.exe -Wl,--whole-archive CMakeFiles\threadpool.dir/objects.a -Wl,--no-whole-archive -o F:\C++\ThreadPool\bin\threadpool.exe -Wl,--out-implib,F:\C++\ThreadPool\bin\libthreadpool.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\threadpool.dir\linkLibs.rsp
